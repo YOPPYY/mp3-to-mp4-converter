@@ -1,0 +1,5 @@
+tkinterdnd2==0.3.0
+pillow==10.0.1
+mutagen==1.47.0
+moviepy==1.0.3
+pathlib
